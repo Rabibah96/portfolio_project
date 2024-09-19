@@ -2,25 +2,25 @@
 
 ## Project Overview
 
-**Project Title**:  Exploratory Data Analysis
-**Dataset Link**:  [Covid-19 Data](https://ourworldindata.org/covid-deaths) 
-**Database**:  `PortfolioProject`
-**Tables**:  Covid_Deaths and Covid_Vaccinations
+  **Project Title**:  Exploratory Data Analysis.
+  **Database**:  `PortfolioProject`.
 
 The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific questions about deaths and vaccinacted population accross the world through SQL queries.
+
+**Dataset Link**: [Covid-19 Data](https://ourworldindata.org/covid-deaths). 
 
 ## Objectives
 
 1. **Data Import**: Import the Data in SQl Server Management Studio
 2. **Data Sorting**: Sort the data according to location and data.
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
-4. **Business Analysis**: Use SQL to answer specific questions and derive insights from the Covid-19 data.
+4. **Analysis**: Use SQL to answer specific questions and derive insights from the Covid-19 data.
 
 ## Project Structure
 
 ### 1. Data Sorting
 
-- **Record Count**: Sort the data for Covid_Deaths according to location and date
+- **Sort**: Sort the data for Covid_Deaths according to location and date
 
 ```sql
 SELECT location, date, total_cases, new_cases, total_deaths, population
