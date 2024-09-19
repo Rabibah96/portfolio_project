@@ -2,10 +2,10 @@
 
 ## Project Overview
 
-**Project Title**: Exploratory Data Analysis 
-**Dataset Link**: [Covid-19 Data](https://ourworldindata.org/covid-deaths)
-**Database**: `PortfolioProject`
-**Tables**: Covid_Deaths and Covid_Vaccinations
+**Project Title**:  Exploratory Data Analysis
+**Dataset Link**:  [Covid-19 Data](https://ourworldindata.org/covid-deaths) 
+**Database**:  `PortfolioProject`
+**Tables**:  Covid_Deaths and Covid_Vaccinations
 
 The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific questions about deaths and vaccinacted population accross the world through SQL queries.
 
@@ -18,7 +18,7 @@ The project involves setting up a retail sales database, performing exploratory 
 
 ## Project Structure
 
-### 2. Data Sorting
+### 1. Data Sorting
 
 - **Record Count**: Sort the data for Covid_Deaths according to location and date
 
@@ -28,7 +28,7 @@ FROM Portfolio_Project..Covid_Deaths$
 ORDER BY 1, 2;
 ```
 
-### 3. Data Analysis & Findings
+### 2. Data Analysis & Findings
 
 The following SQL queries were developed to answer specific questions:
 
