@@ -11,7 +11,7 @@ The project involves setting up a retail sales database, performing exploratory 
 
 ## Objectives
 
-1. **Data Import**: Import the Data in SQl Server Management Studio
+1. **Data Import**: Import the Data in SQL Server Management Studio
 2. **Data Sorting**: Sort the data according to location and data.
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
 4. **Analysis**: Use SQL to answer specific questions and derive insights from the Covid-19 data.
