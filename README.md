@@ -1,11 +1,9 @@
 # Exploratory Data Analysis on Covid-19 Data|SQL project
 
 ## Project Overview
+  
 
-  **Project Title**:  Exploratory Data Analysis.
-  **Database**:  `PortfolioProject`.
-
-The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific questions about deaths and vaccinacted population accross the world through SQL queries.
+The project involves setting up a Covid_19 database in SSMS, performing exploratory data analysis (EDA), and answering specific questions about deaths and vaccinacted population accross the world through SQL queries.
 
 **Dataset Link**: [Covid-19 Data](https://ourworldindata.org/covid-deaths). 
 
